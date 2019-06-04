@@ -5,4 +5,4 @@ A Google Project must be created to retrieve the Google Project JSON and placed 
 The API's for the 3 Cloud services must be activated in order to use the services.
 
 In Eclipse, import the project as an existing Maven project.
-The main class is	GoogleNlpApplication.java. 2 Factory classes handles the creation of the Google clients and document parsers.
+The main class is	GoogleNlpApplication.java. 2 Factory classes handles the creation of the Google clients and document file format parsers (pdf, docx, doc, txt, rtf).
